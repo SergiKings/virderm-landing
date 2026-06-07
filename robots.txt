@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Panel de administración: no rastrear ni indexar.
+Disallow: /panel
+Disallow: /panel/
+
+Sitemap: https://virderm.com/sitemap-index.xml
